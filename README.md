@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Paras Verma.
 - 👀 I’m interested in System Administration and Automation.
-- 🌱 I’m currently learning Machine Learning.
+- 🌱 I’m currently learning Cloud Architecture.
 - 💞️ I’m looking to collaborate on System Administration using BASH/PYTHON.
 - 📫 How to reach me at parasverma[at]gmail.com
 
